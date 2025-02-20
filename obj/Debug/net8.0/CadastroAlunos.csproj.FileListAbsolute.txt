@@ -38,3 +38,4 @@ C:\Users\2023202060022\Downloads\CadastroAlunos\obj\Debug\net8.0\refint\Cadastro
 C:\Users\2023202060022\Downloads\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.pdb
 C:\Users\2023202060022\Downloads\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.genruntimeconfig.cache
 C:\Users\2023202060022\Downloads\CadastroAlunos\obj\Debug\net8.0\ref\CadastroAlunos.dll
+C:\Users\2023202060022\Downloads\CadastroAlunos\obj\Debug\net8.0\CadastroAlunos.sourcelink.json
